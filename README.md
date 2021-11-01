@@ -2,7 +2,8 @@
 
 The question I propose
 >![FOOTAGE](https://raw.githubusercontent.com/Elexies-Clan/Java_Lab3/main/QUESTION.png)<br>
-The class created
+>
+The class created 
 >![FOOTAGE](https://raw.githubusercontent.com/Elexies-Clan/Java_Lab3/main/CLASS.png)<br>
 
 
