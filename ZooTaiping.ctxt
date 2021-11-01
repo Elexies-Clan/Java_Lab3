@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ZooTaiping
+comment1.params=
+comment1.target=ZooTaiping()
+comment2.params=nm\ ic\ gomen
+comment2.target=ZooTaiping(java.lang.String,\ java.lang.String,\ boolean)
+comment3.params=
+comment3.target=double\ totalCharge()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

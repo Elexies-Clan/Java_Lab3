@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DayVisit
+comment1.params=nm\ ic\ gomen\ ctgry
+comment1.target=DayVisit(java.lang.String,\ java.lang.String,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=double\ totalCharge()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
